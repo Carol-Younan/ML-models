@@ -34,8 +34,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## Project Structure
 
-- `dataminig_P.ipynb`: Contains data preprocessing, exploratory data analysis, and regression models.
-- `Data mining 2.ipynb`: Contains data preprocessing, exploratory data analysis with classification models.
+- `dataminig_P.ipynb`: Contains data preprocessing, exploratory data analysis, and a regression model.
+- `Data mining 2.ipynb`: Contains data preprocessing, exploratory data analysis, and a classification model.
 
 ##
 
